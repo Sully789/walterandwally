@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MenuActivity">
+
+    <ImageView
+        android:id="@+id/imageView"
+        android:layout_width="150dp"
+        android:layout_height="150dp"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="20dp"
+        app:srcCompat="@drawable/char9" />
+
+    <Button
+        android:id="@+id/sign_in_button"
+        android:layout_width="150dp"
+        android:layout_height="50dp"
+        android:layout_below="@+id/imageView"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="30dp"
+        android:onClick="onClick"
+        android:text="@string/sign_in_button" />
+
+    <Button
+        android:id="@+id/leaderboard_button"
+        android:layout_width="150dp"
+        android:layout_height="50dp"
+        android:layout_above="@+id/lore_button"
+        android:layout_below="@+id/sign_in_button"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="30dp"
+        android:layout_marginBottom="30dp"
+        android:onClick="onClick"
+        android:text="@string/leaderboard_button" />
+
+    <Button
+        android:id="@+id/lore_button"
+        android:layout_width="150dp"
+        android:layout_height="50dp"
+        android:layout_above="@+id/achievements_button"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="30dp"
+        android:onClick="onClick"
+        android:text="@string/lore_button" />
+
+    <Button
+        android:id="@+id/achievements_button"
+        android:layout_width="150dp"
+        android:layout_height="50dp"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="30dp"
+        android:onClick="onClick"
+        android:text="@string/achievements_button" />
+
+    <Button
+        android:id="@+id/leaderboard_button2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignTop="@+id/leaderboard_button"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentRight="true"
+        android:layout_marginEnd="15dp"
+        android:layout_marginRight="15dp"
+        android:onClick="onClick"
+        android:text="ALT" />
+</RelativeLayout>

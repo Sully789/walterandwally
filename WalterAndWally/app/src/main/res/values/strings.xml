@@ -1,0 +1,135 @@
+<resources>
+    <string name="app_name">WalterAndWally</string>
+    <string name="splash">Welcome to the Walter and Wally companion App</string>
+    <string name="version">Version 0.1</string>
+    <string name="sign_in_button"> Sign In </string>
+    <string name="leaderboard_button"> Leaderboard </string>
+    <string name="lore_button"> Lore </string>
+    <string name="achievements_button"> Achievements </string>
+    <string name="sign_in_text_view">Enter your Username and Password to Sign In</string>
+    <string name="submit_button">Submit</string>
+    <string name="register_button">Register</string>
+    <string name="char1">Walter</string>
+    <string name="char2">Wally</string>
+    <string name="char3">The Caretaker</string>
+    <string name="char4">Frank</string>
+    <string name="char5">Grunt</string>
+    <string name="char6">Big Boi</string>
+    <string name="char7">Skeleton Priest</string>
+    <string name="char8">The Giver</string>
+    <string name="char9">The Taker</string>
+    <string name="ach1">Participation Award</string>
+    <string name="ach2">You Did It!</string>
+    <string name="ach3">Trying Too Hard</string>
+    <string name="ach4">Press X To Pay Respects</string>
+    <string name="ach5">Places To Be</string>
+    <string name="ach6">Who Put That There?</string>
+    <string name="default_value">Description Item</string>
+    <string name="description_item_name">Name</string>
+    <string name="description_item_age">Age</string>
+    <string name="description_item_strengths">Strengths</string>
+    <string name="description_item_weaknesses">Weaknesses</string>
+    <string name="description_item_description">Description</string>
+    <string name="title">View Scores</string>
+    <string name="name">Username: </string>
+    <string name="score">Score: </string>
+    <string name="time">Time: </string>
+    <string name="health">Health: </string>
+    <string name="add">Add</string>
+    <string name="delete">Delete</string>
+    <string name="modify">Modify</string>
+    <string name="view">View</string>
+    <string name="view_all">View All</string>
+    <string name="show_info">Show Information</string>
+    <string name="char1_description">
+        Name: Walter\n
+        Strengths: Energy ball, Intelligence, Problem solving\n
+        Weakness: Dependent on Walter, difficulty discerning reality from imagination\n
+        Description: Walter is an ordinary child that prefers the comforts of his own home.
+        He prefers to spend his time reading and solving puzzles and using his imagination.
+        He is heavily reliant on his pet goldfish Walter, which he uses to deal with his anxiety and everyday struggles.
+        Upon entry into the new dimension he can use Walter to create a ball of energy.
+</string>
+    <string name="char2_description">
+        Name: Wally\n
+        Strengths: One Liners, Blowing Bubbles\n
+        Weakness: Terrible Memory, Cats, Jumping\n
+        Description: Wally is a small goldfish that Walters dad bought for him on his 11th birthday.
+        Wally was separated from his family at a young age in a breeding program.
+        Wally has come to terms with his new home and enjoys Walters company.
+        When wally enters the new dimension, he can speak and finally talk to Walter.
+</string>
+    <string name="char3_description">
+        Name: The Caretaker\n
+        Strengths: Dusting, Mopping, Whistling\n
+        Weakness: Muddy Footprints, Loneliness\n
+        Description: The Caretaker keeps the portal room clean and functioning.
+        He aids any travelers he comes across with vague directions and contradictory statements.
+        He resents being referred to as his job title but has forgotten his real name.
+</string>
+    <string name="char4_description">
+        Name: Frank\n
+        Strengths: Robotic Mastermind, Changing Expiry Dates on his Products\n
+        Weakness: Worker Safety Violations, Literally Incapable of Lowering Prices\n
+        Description: Frank is a scrupulous shop keeper that sells various odds and ends that can aid adventurers.
+        He prides himself on his robotic workforce that he has created himself, these robots run his shop,
+        and he would lead a happy life if he didn’t hear: “UNEXPECTED ITEM IN BAGGING AREA” four times a day.
+</string>
+    <string name="char5_description">
+        Name: Grunt\n
+        Strengths: Walking Right to Left, Biting\n
+        Weakness: Turning Around, Existential Thoughts\n
+        Description: The Grunt type is the basic enemy that hounds the denizens of the new dimension.
+        Easily dispatched, they are at war with anything that doesn’t conform to their lateral form of movement.
+</string>
+    <string name="char6_description">
+        Name: Big Boi\n
+        Strengths: Absolute Unit, Opening Jars\n
+        Weakness: Untied Shoelaces, Maths\n
+        Description: Big Boi’s can be seen posted up around areas they deem important,
+        whether it be some shiny treasure or a particularly interesting looking rock.
+        They are known to squash anything that confuses or interacts with them, which is often the same thing.
+</string>
+    <string name="char7_description">
+        Name: Skeleton Priest\n
+        Strengths: Dark Magic, Dominion Over Undead, Baking\n
+        Weakness: Baggy Clothes, Speech\n
+        Description: The Skeleton Priests are often causing havoc across the new dimension.
+        Many have tried to create a dialogue with them to seek peace from their unholy war, they have all failed,
+        as the Priests are unforgiving and do not possess the power of speech.
+</string>
+    <string name="char8_description">
+        Name: The Giver\n
+        Strengths: Manifestation of Hope, Creator\n
+        Weakness: Can Be A Bit Preachy\n
+        Description: Not much is known of The Giver, but remnants of its presence can be found in the new dimension.
+        Some people believe the Giver was responsible for creating the new dimension.
+</string>
+    <string name="char9_description">
+        Name: The Taker\n
+        Strengths: Manifestation of Fear, Immortal\n
+        Weakness: ???\n
+        Description: The Taker was there before the new dimension and will be there after it.
+        Not much is none on the ageless one, but anyone that has seen it and lived has been rendered catatonically insane.
+</string>
+    <string name="back_to_lore">Back to Lore</string>
+    <string name="ach1_description">Name: Participation Award\n
+Description: Completed the game on easy mode.
+</string>
+    <string name="ach2_description">Name: You Did It\n
+Description: Completed the game on normal difficulty
+</string>
+    <string name="ach3_description">Name: Trying too Hard\n
+Description: Completed the game on the hardest difficulty.
+</string>
+    <string name="ach4_description">Name: Press X to Pay Respects\n
+Description: Killed 50 enemies.
+</string>
+    <string name="ach5_description">Name: Places to Be\n
+Description: Defeat the final boss in under 2 minutes.
+</string>
+    <string name="ach6_description">Name: Who Put That There?\n
+Description: Found a secret
+</string>
+
+</resources>
